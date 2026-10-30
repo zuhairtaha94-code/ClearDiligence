@@ -1,0 +1,21 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+data/
+tmp/
+output/
+.streamlit/secrets.toml
+.DS_Store
+
+# Local exports, scratch work, and OS/editor artifacts
+work/
+outputs/
+*.db
+*.sqlite*
+*.log
+.coverage
+htmlcov/
+.vscode/

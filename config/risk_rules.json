@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "possible_sanctions_tier": "High",
+  "confirmed_sanctions_tier": "High",
+  "supported_finding_tier": "High",
+  "allegation_tier": "Moderate",
+  "minimum_profile_facts": 2,
+  "fuzzy_name_threshold": 0.86,
+  "maximum_candidates": 25
+}
